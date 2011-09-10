@@ -1,0 +1,4 @@
+[respect-rest]
+    git=https://github.com/Respect/Rest.git
+    target=/respect/rest
+
