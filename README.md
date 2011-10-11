@@ -7,7 +7,7 @@
 
 ### Dependências
 * Respect\Rest - http://github.com/Respect/Rest#readme
-
+* Respect\Loader - http://github.com/Respect/Loader
 
 ### Instalação
 1. Clone o repositório;
