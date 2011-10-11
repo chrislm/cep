@@ -19,6 +19,15 @@
 3. Melhorar o tratamento de erros;
 
 
+### Autores (Ordem Alfabetica :D)
+* Augusto Pascutti <...@...>
+* Charles ... <...@...>
+* Daniel Golgher <contato@2km.com.br>
+* Diego H. Oliveira <contato@diegoholiveira.com.br>
+* Guilherme A. David D. Ferreira <contato@guilhermedavid.com.br>
+* Gustavo ... <...@...>
+
+
 ### Contribuindo
 * Todo codigo fonte deverá ser escrito em inglês;
 * Seguir os padrões:
