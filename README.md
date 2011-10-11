@@ -13,6 +13,12 @@
 1. Clone o repositório;
 
 
+### TODO
+1. Usar o Respect\Config para parametrizar a conexão com o banco de dados;
+2. Normalizar o banco de dados e criar o script para migração dos dados desnormalizados para a estrutura normalizada;
+3. Melhorar o tratamento de erros;
+
+
 ### Contribuindo
 * Todo codigo fonte deverá ser escrito em inglês;
 * Seguir os padrões:
