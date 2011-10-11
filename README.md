@@ -6,17 +6,11 @@
 
 
 ### Dependências
-* Respect\Config - http://github.com/Respect/Config#readme
 * Respect\Rest - http://github.com/Respect/Rest#readme
-* Respect\Relational - http://github.com/Respect/Relational#readme
-* Respect\Validation - http://github.com/Respect/Validation#readme
 
 
 ### Instalação
 1. Clone o repositório;
-2. Obtenha as dependências executando: `php bin/vendor install`
-3. Configure o aplicativo para rodar no seu servidor, criando o arquivo `config\config.ini`
-4. Faça a carga do banco de dados executando: `php bin/load-data`
 
 
 ### Contribuindo
